@@ -7,11 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Current Position
 
-**Alexander von Humboldt Research Fellow**
+**Research Fellow**
 Lateinamerika-Institut, Freie Universität Berlin (2024–2026)
 
 ---
