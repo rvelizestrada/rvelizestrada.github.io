@@ -3,12 +3,12 @@ name: "Rodrigo Véliz Estrada"
 description: "Historian | Research Fellow | Freie Universität Berlin"
 minimal_mistakes_skin: "air"
 url: "https://rvelizestrada.github.io"
+repository: "rvelizestrada/rvelizestrada.github.io"
 
 author:
   name: "Rodrigo Véliz Estrada"
   avatar: "images/bio-photo.jpg"
-  bio: "Research Fellow at the Lateinamerika-Institut, Freie Universität Berlin. 
-  Historian specialising in the 20th-century Cold War in the Caribbean Basin, authoritarian internationalism, and regional diplomacy."
+  bio: "Alexander von Humboldt Research Fellow at the Lateinamerika-Institut, Freie Universität Berlin. Historian specialising in the 20th-century Cold War in the Caribbean Basin."
   location: "Berlin, Germany"
   employer: "Freie Universität Berlin"
   email: "rveliz@zedat.fu-berlin.de"
@@ -19,16 +19,13 @@ author:
   github: "rvelizestrada"
   researchgate: "https://www.researchgate.net/profile/Rodrigo_Veliz_Estrada"
 
-# Site settings
 locale: "en-US"
 timezone: Europe/Berlin
 
-# Reading Files
 include:
   - .htaccess
   - _pages
 
-# Defaults - controls sidebar on all pages
 defaults:
   - scope:
       path: ""
@@ -37,6 +34,5 @@ defaults:
       layout: single
       author_profile: true
 
-# Conversion
 markdown: kramdown
 highlighter: rouge
