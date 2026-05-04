@@ -10,7 +10,7 @@ redirect_from:
 
 <p>I am a Research Fellow at the <a href="https://www.lai.fu-berlin.de/en/index.html">Lateinamerika-Institut, Freie Universität Berlin</a>. I am a historian specialising in the 20th-century Cold War in the Caribbean Basin, with a focus on authoritarian internationalism, regional diplomacy, and political violence from a global perspective.</p>
 
-<p>My current research examines the diplomatic and security networks of the early Cold War in the Greater Caribbean Basin (1944–1955). I hold a Ph.D. in History from CIESAS (México, 2020), passed with distinction.</p>
+<p>My current research examines the diplomatic and security networks of the early Cold War in the Greater Caribbean Basin (1944–1955). My current manuscript, The Caribbean Basin and the shaping of Latin America’s early Cold War (1944–1955), is under final review with the University of New Mexico Press. My articles have appeared in leading journals such as Hispanic American Historical Review, The Americas, Latin American Research Review, and the Journal of Latin American Studies. I'm author of four books, including Manuel Colom Argueta and the Democratic Collapse of the Central American Cold War, 1954–1979 by Bloomsbury Academics (Feb. 2026)</p>
 
 <p>In 2026 I was awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (European Commission, Seal of Excellence, score 91.8%).</p>
 
