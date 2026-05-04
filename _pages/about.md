@@ -1,4 +1,5 @@
 ---
+<img src="/images/bio-photo.jpg" alt="Rodrigo Véliz Estrada" style="width:200px; border-radius:50%; display:block; margin: 0 auto 20px auto;">
 permalink: /
 title: "Rodrigo Véliz Estrada"
 excerpt: "About me"
