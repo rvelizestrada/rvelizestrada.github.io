@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Jobs and more information"
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
