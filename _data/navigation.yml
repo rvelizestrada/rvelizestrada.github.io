@@ -14,14 +14,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Latest talks"
+  - title: "Public Engagement"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
    
-  - title: "Jobs and other information"
+  - title: "Jobs, memberships and languages"
     url: /cv/
     
   # - title: "CV"
