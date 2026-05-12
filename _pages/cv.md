@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jobs and more information"
+title: "Jobs, memberships and languages"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,7 +24,7 @@ Lateinamerika-Institut, Freie Universität Berlin (2024–2026)
 
 ## Academic Appointments
 
-- 2026 — Marie Skłodowska-Curie Postdoctoral Fellowship (European Commission) — Seal of Excellence, score 91.8%
+- 2026 — Marie Skłodowska-Curie Postdoctoral Fellowship (European Commission) — **Seal of Excellence, score 91.8%**
 - 2024–2026 — Alexander von Humboldt Research Fellowship, Lateinamerika-Institut, Freie Universität Berlin
 - 2025 — European Research Stay, Ca' Foscari University, Venezia
 - 2023–2024 — Visiting Fellow, School of History, University of Leeds
